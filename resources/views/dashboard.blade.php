@@ -5,7 +5,7 @@
 <!--begin::Head-->
 <head><base href="">
     <meta charset="utf-8" />
-    <title>Stock | Equipos</title>
+    <title>Stock | Equipos | DIF Estatal</title>
     <meta name="description" content="Updates and statistics" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
